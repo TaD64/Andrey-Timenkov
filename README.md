@@ -21,7 +21,7 @@
 - [Testcase](https://github.com/TaD64/homework/tree/main/Testcase)
 
 ### Стажировка
-
+- [Testcase sportfestspb.ru](https://docs.google.com/spreadsheets/d/1kozX3stGUk-tqic4YYLEi3uoeAe7bJGfcCKz--q_YT4/edit#gid=1375298421)
 
 ## Связаться со мной
 - **Email:** andtim64@gmail.com
