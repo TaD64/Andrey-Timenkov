@@ -18,7 +18,7 @@
 ## Проекты
 
 ### Домашние работы
-- [Testcase](https://github.com/TaD64/homework/tree/main/Testcase): Мои тест-кейсы
+- [Testcase](https://github.com/TaD64/homework/tree/main/Testcase)
 
 ### Стажировка
 
