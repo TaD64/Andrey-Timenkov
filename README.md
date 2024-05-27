@@ -19,7 +19,7 @@
 
 ### Домашние работы
 - [Testcase](https://github.com/TaD64/homework/tree/main/Testcase)
-- [JSS/CSS](https://docs.google.com/spreadsheets/d/1kj8RxRNSRKpE23Q-IhKrVx9qbngwLODM9hko9pJSYqE/edit#gid=754384195)
+- [JS/CSS](https://docs.google.com/spreadsheets/d/1kj8RxRNSRKpE23Q-IhKrVx9qbngwLODM9hko9pJSYqE/edit#gid=754384195)
 ### Стажировка
 - [Testcase sportfestspb.ru](https://docs.google.com/spreadsheets/d/1kozX3stGUk-tqic4YYLEi3uoeAe7bJGfcCKz--q_YT4/edit#gid=1375298421)
 
